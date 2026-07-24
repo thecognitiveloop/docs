@@ -1,22 +1,11 @@
-# POL-GOV-001: Human-in-the-Loop & AI Decision Governance Policy
+# Human-in-the-Loop & AI Decision Governance Policy
 
-| Document Metadata | Details |
-| --- | --- |
-| **Document ID** | POL-GOV-001 |
-| **Version** | 1.0 |
-| **Status** | Approved |
-| **Author** | Head of AI Governance & Ethics |
-| **Approved By** | Executive Governance & Compliance Board |
-| **Effective Date** | July 24, 2026 |
-| **Classification** | Public / External Audit Ready |
+> **Document ID**  POL-GOV-001 <br>
+> **Version**  1.0 <br>
+> **Status** Approved <br>
+> **Approved By**  Executive Governance & Compliance Board <br> 
+> **Classification**  Public / External Audit Ready <br>
 
-### Document Control & Change History
-
-| Version | Date | Author | Summary of Changes |
-| --- | --- | --- | --- |
-| 1.0 | 2026-07-24 | Head of AI | Initial release establishing human oversight, decision validation, and AI risk controls. |
-
----
 
 ## 1. Purpose & Scope
 
@@ -26,7 +15,7 @@ This Policy establishes mandatory Human-in-the-Loop (HITL) governance controls f
 ### 1.2 Scope
 This policy applies to all decision-mapping workflows, expert judgment capture sessions, AI prompt constructions, autonomous agent execution frameworks, and criteria validation pipelines implemented across the enterprise platform.
 
----
+
 
 ## 2. Normative References & Compliance Mapping
 
@@ -37,7 +26,7 @@ This policy aligns with international AI governance frameworks and trustworthine
 * **EU AI Act (Regulation EU 2024/1689):** Article 14 (Human oversight), Article 12 (Record-keeping/Traceability), Article 15 (Accuracy, robustness, and cybersecurity).
 * **SOC 2 Type II Criteria:** CC5.2, CC5.3 (Control Activities & Risk Mitigation).
 
----
+
 
 ## 3. Human Oversight & Validation Framework
 
@@ -62,7 +51,7 @@ This policy aligns with international AI governance frameworks and trustworthine
      [ Active Knowledge Asset ] ──> [ Cleo & AI Agents ]
 ```
 
----
+
 
 ## 4. Guardrails & Operational Risk Mitigation
 
