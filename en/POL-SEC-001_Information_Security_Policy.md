@@ -1,8 +1,8 @@
 # Information Security & Infrastructure Policy
+
 > **Document ID**  POL-SEC-001 <br>
-> **Version**  1.0<br>
 > **Status**  Approved<br>
-> **Effective Date**  July 24, 2026<br>
+> **Last Update**  July, 2026<br>
 > **Classification**  Public / External Audit Ready 
 
 
