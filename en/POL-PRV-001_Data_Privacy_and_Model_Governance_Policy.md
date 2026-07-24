@@ -1,21 +1,11 @@
-# POL-PRV-001: Data Privacy & Model Governance Policy
+# Data Privacy & Model Governance Policy
 
-| Document Metadata | Details |
-| --- | --- |
-| **Document ID** | POL-PRV-001 |
-| **Version** | 1.0 |
-| **Status** | Approved |
-| **Approved By** | Executive Governance & Compliance Board |
-| **Effective Date** | July 24, 2026 |
-| **Classification** | Public / External Audit Ready |
+> **Document ID**  POL-PRV-001 <br>
+> **Version**  1.0 <br>
+> **Status**  Approved <br>
+> **Approved By**  Executive Governance & Compliance Board <br> 
+> **Classification**  Public / External Audit Ready <br>
 
-### Document Control & Change History
-
-| Version | Date | Author | Summary of Changes |
-| --- | --- | --- | --- |
-| 1.0 | 2026-07-24 | CPO/DPO | Initial formal release establishing data protection, model governance, and privacy compliance guidelines. |
-
----
 
 ## 1. Purpose & Scope
 
@@ -25,7 +15,7 @@ This Policy defines the organizational and technical framework governing data pr
 ### 1.2 Scope
 This policy applies to all processing activities involving customer operational data, decision logs, expert judgment criteria, employee simulation records, and Personally Identifiable Information (PII) ingested or generated across platform operations.
 
----
+
 
 ## 2. Normative References & Compliance Mapping
 
@@ -36,7 +26,7 @@ This policy aligns with international privacy management standards and regulator
 * **Regulation (EU) 2016/679 (GDPR):** Articles 5 (Principles), 6 (Lawfulness), 25 (Privacy by Design/Default), 28 (Processors), 32 (Security of Processing).
 * **California Consumer Privacy Act (CCPA / CPRA):** Cal. Civ. Code § 1798.100 et seq.
 
----
+
 
 ## 3. AI Model Governance & Intellectual Property Protection
 
@@ -46,7 +36,7 @@ This policy aligns with international privacy management standards and regulator
 ### 3.2 Intellectual Property & Data Ownership
 * Customers retain exclusive, unrestricted intellectual property rights and ownership over all captured business logic, decision trees, expert criteria, contextual prompts, vector embeddings, and synthetic scenarios generated within their dedicated platform boundary (*ISO/IEC 27070 Clause 6*).
 
----
+
 
 ## 4. Data Lifecycle & Operational Privacy Controls
 
@@ -64,7 +54,6 @@ This policy aligns with international privacy management standards and regulator
 ### 4.4 Subprocessor Governance
 * All third-party cloud service providers and subprocessors processing customer data must undergo privacy risk assessments, enter into binding Data Processing Agreements (DPAs) with Standard Contractual Clauses (SCCs), and maintain active ISO 27001/27701 or SOC 2 certifications (*ISO/IEC 27701 8.2.1; GDPR Art. 28*).
 
----
 
 ## 5. Individual Rights & Privacy Impact Management
 
