@@ -1,20 +1,11 @@
-# POL-SEC-001: Information Security & Infrastructure Policy
+# Information Security & Infrastructure Policy
+> **Document ID**  POL-SEC-001 <br>
+> **Version**  1.0<br>
+> **Status**  Approved<br>
+> **Effective Date**  July 24, 2026<br>
+> **Classification**  Public / External Audit Ready 
 
-| Document Metadata | Details |
-| --- | --- |
-| **Document ID** | POL-SEC-001 |
-| **Version** | 1.0 |
-| **Status** | Approved |
-| **Effective Date** | July 24, 2026 |
-| **Classification** | Public / External Audit Ready |
 
-### Document Control & Change History
-
-| Version | Date | Author | Summary of Changes |
-| --- | --- | --- | --- |
-| 1.0 | 2026-07-24 | CEO | Initial formal policy release for external compliance audits (ISO 27001, SOC 2). |
-
----
 
 ## 1. Purpose & Scope
 
@@ -24,7 +15,7 @@ This Policy establishes mandatory administrative, technical, and physical securi
 ### 1.2 Scope
 This policy applies to all systems, microservices, cloud deployments, databases, network connections, and technical operational processes supporting The Cognitive Loop infrastructure. It binds all employees, contractors, and third-party vendors with operational or administrative access.
 
----
+
 
 ## 2. Normative References & Compliance Mapping
 
@@ -34,7 +25,7 @@ This policy explicitly maps to controls defined across international security st
 * **SOC 2 Type II Criteria:** CC6.1, CC6.3, CC6.6, CC6.7, CC6.8, CC7.1, CC7.2.
 * **NIST SP 800-53 Rev. 5:** AC-2, AC-3, SC-7, SC-8, SC-12, SC-13, SI-2, SI-4.
 
----
+
 
 ## 3. Cryptographic Controls & Data Protection
 
@@ -46,7 +37,7 @@ This policy explicitly maps to controls defined across international security st
 * All persistent data, including relational databases, document stores, system logs, backups, and vector embedding indices, must be encrypted at rest using **AES-256**.
 * Key management must enforce automated key rotation using cloud Key Management Services (KMS) with strict key access policies (*ISO 27001 A.8.24; SOC 2 CC6.1*).
 
----
+
 
 ## 4. System Isolation & Access Architecture
 
@@ -61,7 +52,7 @@ This policy explicitly maps to controls defined across international security st
 * Principle of Least Privilege (PoLP) and Need-to-Know access control models must be programmatically enforced using Role-Based Access Control (RBAC) and Attribute-Based Access Control (ABAC).
 * Enterprise access requires integration with SAML 2.0 or OIDC Identity Providers (IdP) with mandatory Multi-Factor Authentication (MFA) (*ISO 27001 A.5.15, A.8.2; SOC 2 CC6.1*).
 
----
+
 
 ## 5. Vulnerability Management, Auditing & Resilience
 
