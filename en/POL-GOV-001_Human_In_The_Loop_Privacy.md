@@ -1,8 +1,10 @@
 # Human-in-the-Loop & AI Decision Governance Policy
 
-> **Version/ID**  1.0, POL-GOV-001 <br>
-> **Status/Classification** Approved, Public / External Audit Ready <br> 
-> **Last Update**  July, 2026 <br> 
+> **Version/ID**  1.0, POL-GOV-001
+> 
+> **Status/Classification** Approved, Public / External Audit Ready
+> 
+> **Last Update**  July, 2026 
 
 ## 1. Purpose & Scope
 
