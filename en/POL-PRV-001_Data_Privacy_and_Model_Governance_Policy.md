@@ -1,9 +1,8 @@
 # Data Privacy & Model Governance Policy
 
 > **Document ID**  POL-PRV-001 <br>
-> **Version**  1.0 <br>
 > **Status**  Approved <br>
-> **Approved By**  Executive Governance & Compliance Board <br> 
+> **Last Update**  July, 2026 <br> 
 > **Classification**  Public / External Audit Ready <br>
 
 
