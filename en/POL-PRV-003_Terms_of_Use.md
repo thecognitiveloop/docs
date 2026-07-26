@@ -8,7 +8,7 @@ If you do not agree, do not use the website or platform.
 
 
 
-# Use of the Platform
+## Use of the Platform
 
 The Cognitive Loop provides software and services designed to assist organizations in capturing, structuring, and activating organizational knowledge.
 
@@ -18,7 +18,7 @@ You are responsible for all activity conducted under your account.
 
 
 
-# Intellectual Property
+## Intellectual Property
 
 Unless otherwise stated, all website content, software, documentation, trademarks, logos, and platform components are the exclusive property of The Cognitive Loop.
 
@@ -28,7 +28,7 @@ Customer-owned content remains the property of the customer.
 
 
 
-# Customer Content
+## Customer Content
 
 Customers retain ownership of all information they submit to the platform.
 
@@ -36,7 +36,7 @@ By using the platform, customers grant The Cognitive Loop the limited rights nec
 
 
 
-# Artificial Intelligence
+## Artificial Intelligence
 
 The platform may generate recommendations, summaries, classifications, or other AI-assisted outputs.
 
@@ -46,7 +46,7 @@ Users remain solely responsible for decisions made using platform outputs.
 
 
 
-# Availability
+## Availability
 
 We aim to maintain continuous availability of our services.
 
@@ -56,7 +56,7 @@ Maintenance, updates, and external factors may temporarily affect availability.
 
 
 
-# Acceptable Use
+## Acceptable Use
 
 Users agree not to:
 
@@ -69,7 +69,7 @@ Users agree not to:
 
 
 
-# Third-Party Services
+## Third-Party Services
 
 Some platform features may rely on third-party services.
 
@@ -77,7 +77,7 @@ We are not responsible for interruptions or failures caused by third-party provi
 
 
 
-# Disclaimer
+## Disclaimer
 
 THE PLATFORM, WEBSITE, SOFTWARE, DOCUMENTATION, AND ALL RELATED SERVICES ARE PROVIDED **"AS IS"** AND **"AS AVAILABLE"**, WITHOUT WARRANTIES OF ANY KIND, WHETHER EXPRESS OR IMPLIED.
 
@@ -85,7 +85,7 @@ TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COGNITIVE LOOP DISCLAIMS ALL WARRANT
 
 
 
-# Limitation of Liability
+## Limitation of Liability
 
 To the maximum extent permitted by law, The Cognitive Loop shall not be liable for:
 
@@ -101,13 +101,13 @@ Use of the platform is at the user's own risk.
 
 
 
-# Indemnification
+## Indemnification
 
 Users agree to indemnify and hold harmless The Cognitive Loop against claims resulting from misuse of the platform or violation of these Terms.
 
 
 
-# Termination
+## Termination
 
 We may suspend or terminate access if these Terms are violated.
 
@@ -115,7 +115,7 @@ Users may discontinue use of the platform at any time.
 
 
 
-# Changes
+## Changes
 
 We may modify these Terms from time to time.
 
@@ -123,13 +123,13 @@ Continued use of the platform constitutes acceptance of the updated Terms.
 
 
 
-# Governing Law
+## Governing Law
 
 Unless otherwise required by applicable law or a written commercial agreement, these Terms shall be governed by the laws applicable to the jurisdiction in which The Cognitive Loop operates.
 
 
 
-# Contact
+## Contact
 
 Questions regarding these Terms may be directed to:
 
