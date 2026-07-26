@@ -12,7 +12,6 @@ Exploring how technology, governance, and human cognition converge to shape the 
 
 >**Author:** Pablo Gottifredi  
 >**Published:** July 24, 2026
-
 >**Summary**
 >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum viverra purus ut augue tincidunt, vitae posuere lectus efficitur. Integer consequat, lacus vitae condimentum tincidunt, tortor velit facilisis urna, eget faucibus neque augue vitae lectus. Curabitur sed sapien vel nibh faucibus dictum.
 
@@ -23,7 +22,6 @@ Exploring how technology, governance, and human cognition converge to shape the 
 
 >**Author:** Mariela Rossi  
 >**Published:** July 19, 2026
-
 >**Summary**
 >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisi. Suspendisse potenti. Vivamus luctus, eros sed luctus posuere, lectus odio gravida neque, sed faucibus erat lacus quis lectus. Fusce eget magna non velit luctus luctus.
 
@@ -35,7 +33,6 @@ Exploring how technology, governance, and human cognition converge to shape the 
 
 >**Author:** Pablo Gottifredi  
 >**Published:** July 12, 2026
-
 >**Summary**
 >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec id ipsum eget arcu ultricies cursus. Sed at libero vel neque consequat tristique. Integer bibendum nisi vitae justo volutpat, ac pretium purus luctus.
 
@@ -47,7 +44,6 @@ Exploring how technology, governance, and human cognition converge to shape the 
 
 >**Author:** Mariela Rossi  
 >**Published:** July 5, 2026
-
 >**Summary**
 >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent convallis lectus sed lectus faucibus, at tincidunt mauris vestibulum. Donec auctor, orci vel aliquam interdum, nisi nisl malesuada lorem, sed luctus nibh augue vel magna.
 
@@ -58,7 +54,6 @@ Exploring how technology, governance, and human cognition converge to shape the 
 
 >**Author:** Mariela Rossi  
 >**Published:** June 27, 2026
-
 >**Summary**
 >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi volutpat, risus quis fermentum varius, justo velit feugiat sapien, sit amet feugiat libero purus sed lectus. Aenean vitae elit sed ipsum interdum hendrerit.
 ---
@@ -68,7 +63,6 @@ Exploring how technology, governance, and human cognition converge to shape the 
 
 >**Author:** Pablo Gottifredi  
 >**Published:** June 20, 2026
-
 >**Summary**
 >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque suscipit dui sed lacus tincidunt, vitae porttitor justo gravida. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
 
