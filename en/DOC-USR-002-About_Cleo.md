@@ -3,9 +3,7 @@
 ### Your Cognitive Learning Companion
 
 >Learning is no longer separate from work.
-
 >Cleo is the learning experience built on top of The Cognitive Loop's cognitive infrastructure, transforming everyday operational activity into continuous professional development. Rather than delivering static courses, Cleo develops operational judgment by exposing people to the same uncertainty, context, and decision criteria they will encounter in their daily work.
-
 >Our objective is not simply to transfer knowledge, but to accelerate the development of professional reasoning.
 
 
