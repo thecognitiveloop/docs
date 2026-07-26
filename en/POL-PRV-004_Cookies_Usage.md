@@ -6,7 +6,7 @@ By continuing to use our website, you consent to the use of cookies as described
 
 
 
-# What Are Cookies?
+## What Are Cookies?
 
 Cookies are small text files stored on your device by your web browser.
 
@@ -14,7 +14,7 @@ They allow websites to recognize your device, remember preferences, improve perf
 
 
 
-# How We Use Cookies
+## How We Use Cookies
 
 We use cookies to:
 
@@ -27,9 +27,9 @@ We use cookies to:
 
 
 
-# Types of Cookies
+## Types of Cookies
 
-## Essential Cookies
+### Essential Cookies
 
 These cookies are necessary for the website to function correctly.
 
@@ -44,7 +44,7 @@ Examples include:
 
 
 
-## Analytics Cookies
+### Analytics Cookies
 
 These cookies help us understand how visitors use our website.
 
@@ -59,7 +59,7 @@ Examples may include:
 
 
 
-## Functional Cookies
+### Functional Cookies
 
 These cookies remember choices you make to provide a more personalized experience.
 
@@ -70,7 +70,7 @@ Examples include:
 
 
 
-# Third-Party Cookies
+## Third-Party Cookies
 
 Some services integrated into our website may place their own cookies.
 
@@ -80,7 +80,7 @@ Their use is governed by the privacy policies of those providers.
 
 
 
-# Managing Cookies
+## Managing Cookies
 
 Most web browsers allow you to:
 
@@ -93,7 +93,7 @@ Blocking certain cookies may affect website functionality.
 
 
 
-# Changes
+## Changes
 
 We may update this Cookie Policy periodically.
 
@@ -101,7 +101,7 @@ The most current version will always be available on this page.
 
 
 
-# Contact
+## Contact
 
 Questions regarding this Cookie Policy may be directed to:
 
