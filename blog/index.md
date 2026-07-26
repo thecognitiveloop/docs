@@ -85,4 +85,4 @@ Exploring how technology, governance, and human cognition converge to shape the 
 ## About This Blog
 
 This publication explores the intersection of artificial intelligence, cognitive systems, organizational design, and governance. Our articles combine technical perspectives, research, and practical insights to help organizations build adaptive, trustworthy, and human-centered digital capabilities.
-```
+
